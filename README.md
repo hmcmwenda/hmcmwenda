@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @hmcmwenda
-- 👀 I’m interested in ...coding
-- 🌱 engineering...my thing
-- 💞️ I’m looking to collaborate on ...
+- 👀 code-adro
+- 🌱 engineering
+- 💞️ colaboration sounds fun
 - 📫 How to reach me ...@haronmutethia4gmail.com 
-- 😄 Pronouns:eng...
-- ⚡ top fun: cosmology enthusiast...
+- ⚡ cosmology enthusiast...
 
 <!---
 hmcmwenda/hmcmwenda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
